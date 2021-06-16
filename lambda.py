@@ -26,5 +26,3 @@ print(tuple(displayme))
 from functools import reduce
 verizon=reduce(lambda x,y : x+y,mytuple1)
 print(verizon)
-
-this is additional code
